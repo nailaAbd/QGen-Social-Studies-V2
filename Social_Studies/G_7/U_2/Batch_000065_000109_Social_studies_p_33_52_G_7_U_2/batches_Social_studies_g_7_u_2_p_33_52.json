@@ -1,0 +1,619 @@
+{
+"batch_000065": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.1 Human Evolution",
+            "subTopics": [" 2.1.1 Archeology and archeological works"],
+            "page": {
+                "page_number": "33",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000066": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.1 Human Evolution",
+            "subTopics": [" 2.1.2 Origin of the first human beings"],
+            "page": {
+                "page_number": "34",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000067": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.1 Human Evolution",
+            "subTopics": [" 2.1.2 Origin of the first human beings"],
+            "page": {
+                "page_number": "34",
+                "page_overlap": "35"
+            },
+            "others": ""
+        }
+},
+"batch_000068": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.1 Human Evolution",
+            "subTopics": ["2.1.3 Historical paths human kind passes over time"],
+            "page": {
+                "page_number": "35",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000069": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.1 Human Evolution",
+            "subTopics": ["2.1.3 Historical paths human kind passes over time"],
+            "page": {
+                "page_number": "35",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000070": {
+    "source": "segment_3",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.1 Human Evolution",
+            "subTopics": ["2.1.3 Historical paths human kind passes over time"],
+            "page": {
+                "page_number": "35",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000071": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.1 Human Evolution",
+            "subTopics": ["2.1.3 Historical paths human kind passes over time"],
+            "page": {
+                "page_number": "36",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000072": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.1 Human Evolution",
+            "subTopics": ["2.1.3 Historical paths human kind passes over time", "Activity 2.1"],
+            "page": {
+                "page_number": "37",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000073": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": [],
+            "page": {
+                "page_number": "38",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000074": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": [],
+            "page": {
+                "page_number": "39",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000075": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": [],
+            "page": {
+                "page_number": "39",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000076": {
+    "source": "segment_3",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": ["Factors that contribute for rapid population growth"],
+            "page": {
+                "page_number": "39",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000077": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": ["Factors that contribute for rapid population growth"],
+            "page": {
+                "page_number": "40",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000078": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": ["Factors that contribute for rapid population growth", "Table 2.1"],
+            "page": {
+                "page_number": "40",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000079": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": ["Trend and growth rate of Ethiopian population"],
+            "page": {
+                "page_number": "41",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000080": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": ["Trend and growth rate of Ethiopian population"],
+            "page": {
+                "page_number": "41",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000081": {
+    "source": "segment_3",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": ["Trend and growth rate of Ethiopian population", "Table 2.2"],
+            "page": {
+                "page_number": "41",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000082": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": ["Trend and growth rate of Ethiopian population", "Activity 2.2 "],
+            "page": {
+                "page_number": "42",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000083": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": [" 2.2.1 Components of population dynamics"],
+            "page": {
+                "page_number": "42",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000084": {
+    "source": "segment_3",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": [" 2.2.1 Components of population dynamics", "A. Fertility"],
+            "page": {
+                "page_number": "42",
+                "page_overlap": "43"
+            },
+            "others": ""
+        }
+},
+"batch_000085": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": [" 2.2.1 Components of population dynamics", "A. Fertility", "Measures of fertility", "Birth Rate (BR)"],
+            "page": {
+                "page_number": "43",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000086": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": [" 2.2.1 Components of population dynamics", "A. Fertility", "Measures of fertility", "Birth Rate (BR)"],
+            "page": {
+                "page_number": "43",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000087": {
+    "source": "segment_3",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": [" 2.2.1 Components of population dynamics", "A. Fertility", "Factors of Fertility Distribution"],
+            "page": {
+                "page_number": "43",
+                "page_overlap": "44"
+            },
+            "others": ""
+        }
+},
+"batch_000088": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": [" 2.2.1 Components of population dynamics", "B. Mortality"],
+            "page": {
+                "page_number": "44",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000089": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": [" 2.2.1 Components of population dynamics", "B. Mortality", " Measures of Mortality", " Death rate (DR)"],
+            "page": {
+                "page_number": "44",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000090": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": [" 2.2.1 Components of population dynamics", "B. Mortality", " Measures of Mortality", " Death rate (DR)"],
+            "page": {
+                "page_number": "45",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000091": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": [" 2.2.1 Components of population dynamics", "B. Mortality", " Measures of Mortality", " Death rate (DR)"],
+            "page": {
+                "page_number": "45",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000092": {
+    "source": "segment_3",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": [" 2.2.1 Components of population dynamics", "B. Mortality", " Measures of Mortality", " Death rate (DR)"],
+            "page": {
+                "page_number": "45",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000093": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": [" 2.2.1 Components of population dynamics", "C. Migration"],
+            "page": {
+                "page_number": "46",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000094": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": [" 2.2.1 Components of population dynamics", "C. Migration"],
+            "page": {
+                "page_number": "46",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000095": {
+    "source": "segment_3",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": [" 2.2.1 Components of population dynamics", "C. Migration", "Measures of migration"],
+            "page": {
+                "page_number": "46",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000096": {
+    "source": "segment_4",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": [" 2.2.1 Components of population dynamics", "C. Migration", "Measures of migration"],
+            "page": {
+                "page_number": "46",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000097": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": [" 2.2.1 Components of population dynamics", "C. Migration", "Measures of migration"],
+            "page": {
+                "page_number": "47",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000098": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": [" 2.2.1 Components of population dynamics", "C. Migration", "Measures of migration", "Activity 2.3"],
+            "page": {
+                "page_number": "47",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000099": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": ["2.2.2 Population characteristics"],
+            "page": {
+                "page_number": "48",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000100": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": ["2.2.2 Population characteristics"],
+            "page": {
+                "page_number": "48",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000101": {
+    "source": "segment_3",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": ["2.2.2 Population characteristics"],
+            "page": {
+                "page_number": "48",
+                "page_overlap": "49"
+            },
+            "others": ""
+        }
+},
+"batch_000102": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": ["2.2.2 Population characteristics", "Sex Structure "],
+            "page": {
+                "page_number": "49",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000103": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": ["2.2.2 Population characteristics", "Age dependency ratio"],
+            "page": {
+                "page_number": "50",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000104": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": ["2.2.2 Population characteristics", "Age dependency ratio"],
+            "page": {
+                "page_number": "50",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000105": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": ["2.2.2 Population characteristics", "Age dependency ratio", "Activity 2.4 "],
+            "page": {
+                "page_number": "51",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000106": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": ["2.2.3 Population distribution", "Factors of population distribution"],
+            "page": {
+                "page_number": "51",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000107": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": ["2.2.3 Population distribution", "Factors of population distribution", "Physical Factors", " Human factors"],
+            "page": {
+                "page_number": "52",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+,
+"batch_000109": {
+    "source": "segment_3",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 2 HUMAN EVOLUTION AND WORLD POPULATION",
+            "topic": "2.2 Trend Of World Population",
+            "subTopics": ["2.2.3 Population distribution", "Spatial distribution of world population", "1. Densely Populated Regions"],
+            "page": {
+                "page_number": "52",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+}
+}

@@ -1,0 +1,380 @@
+{
+"batch_000001": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.1 Origin Of The Earth And The Solar System",
+            "subTopics": [" A. The origin of the Earth"],
+            "page": {
+                "page_number": "2",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000002": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.1 Origin Of The Earth And The Solar System",
+            "subTopics": [" A. The origin of the Earth"],
+            "page": {
+                "page_number": "2",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000003": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.1 Origin Of The Earth And The Solar System",
+            "subTopics": [" A. The origin of the Earth"],
+            "page": {
+                "page_number": "3",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000004": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.1 Origin Of The Earth And The Solar System",
+            "subTopics": [" A. The origin of the Earth"],
+            "page": {
+                "page_number": "3",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000005": {
+    "source": "segment_3",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.1 Origin Of The Earth And The Solar System",
+            "subTopics": ["B. Members of the solar system", " I. The Sun"],
+            "page": {
+                "page_number": "3",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000006": {
+    "source": "segment_4",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.1 Origin Of The Earth And The Solar System",
+            "subTopics": ["B. Members of the solar system", " I. The Sun"],
+            "page": {
+                "page_number": "3",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000007": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.1 Origin Of The Earth And The Solar System",
+            "subTopics": ["B. Members of the solar system", "II. Planets"],
+            "page": {
+                "page_number": "4",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000008": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.1 Origin Of The Earth And The Solar System",
+            "subTopics": ["B. Members of the solar system", "II. Planets", " Inner planets"],
+            "page": {
+                "page_number": "4",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000009": {
+    "source": "segment_3",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.1 Origin Of The Earth And The Solar System",
+            "subTopics": ["B. Members of the solar system", "II. Planets", " Outer planets"],
+            "page": {
+                "page_number": "4",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000010": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.1 Origin Of The Earth And The Solar System",
+            "subTopics": ["B. Members of the solar system", " III.  Asteroids"],
+            "page": {
+                "page_number": "5",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000011": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.1 Origin Of The Earth And The Solar System",
+            "subTopics": ["B. Members of the solar system", " IV. Meteoroids"],
+            "page": {
+                "page_number": "5",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000012": {
+    "source": "segment_3",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.1 Origin Of The Earth And The Solar System",
+            "subTopics": ["B. Members of the solar system", " IV. Meteoroids"],
+            "page": {
+                "page_number": "5",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000013": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.1 Origin Of The Earth And The Solar System",
+            "subTopics": ["B. Members of the solar system", " IV. Meteoroids"],
+            "page": {
+                "page_number": "6",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000014": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.1 Origin Of The Earth And The Solar System",
+            "subTopics": ["B. Members of the solar system", " IV. Meteoroids", "Activity 1.1"],
+            "page": {
+                "page_number": "8",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000015": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.2 Shape And Movements Of The Earth",
+            "subTopics": ["A. The shape of earth"],
+            "page": {
+                "page_number": "8",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000016": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.2 Shape And Movements Of The Earth",
+            "subTopics": ["A. The shape of earth"],
+            "page": {
+                "page_number": "9",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000017": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.2 Shape And Movements Of The Earth",
+            "subTopics": ["A. The shape of earth", "Evidences of earth’s shape"],
+            "page": {
+                "page_number": "9",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000018": {
+    "source": "segment_3",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.2 Shape And Movements Of The Earth",
+            "subTopics": ["A. The shape of earth", "Evidences of earth’s shape"],
+            "page": {
+                "page_number": "9",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000019": {
+    "source": "segment_4",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.2 Shape And Movements Of The Earth",
+            "subTopics": ["B. Movements of the Earth"],
+            "page": {
+                "page_number": "9",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000020": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.2 Shape And Movements Of The Earth",
+            "subTopics": ["B. Movements of the Earth"],
+            "page": {
+                "page_number": "10",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000021": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.2 Shape And Movements Of The Earth",
+            "subTopics": ["B. Movements of the Earth", "i. Rotation"],
+            "page": {
+                "page_number": "10",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000022": {
+    "source": "segment_3",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.2 Shape And Movements Of The Earth",
+            "subTopics": ["B. Movements of the Earth", "i. Rotation", "Effects of Earth’s Rotation", "1.Day and Night"],
+            "page": {
+                "page_number": "10",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000023": {
+    "source": "segment_4",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.2 Shape And Movements Of The Earth",
+            "subTopics": ["B. Movements of the Earth", "i. Rotation", "Effects of Earth’s Rotation", "2.High and Low Tide"],
+            "page": {
+                "page_number": "10",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000024": {
+    "source": "segment_5",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.2 Shape And Movements Of The Earth",
+            "subTopics": ["B. Movements of the Earth", " ii. Revolution of the Earth"],
+            "page": {
+                "page_number": "10",
+                "page_overlap": "11"
+            },
+            "others": ""
+        }
+},
+"batch_000025": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.2 Shape And Movements Of The Earth",
+            "subTopics": ["B. Movements of the Earth", " ii. Revolution of the Earth", "The Effects of Revolution of the Earth", "a. variation in the length of day and night "],
+            "page": {
+                "page_number": "11",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000026": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.2 Shape And Movements Of The Earth",
+            "subTopics": ["B. Movements of the Earth", " ii. Revolution of the Earth", "The Effects of Revolution of the Earth", " b. Seasons"],
+            "page": {
+                "page_number": "11",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000027": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 1 PHYSICAL CHARACTERISTICS OF THE EARTH",
+            "topic": "1.2 Shape And Movements Of The Earth",
+            "subTopics": ["B. Movements of the Earth", " ii. Revolution of the Earth", "The Effects of Revolution of the Earth", " b. Seasons", "Activity 1.2"],
+            "page": {
+                "page_number": "12",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+}
+}

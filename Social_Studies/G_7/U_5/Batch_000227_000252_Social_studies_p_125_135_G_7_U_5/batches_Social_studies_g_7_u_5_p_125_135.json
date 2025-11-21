@@ -1,0 +1,366 @@
+{
+"batch_000227": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.1 Ancient Kingdom Of Egypt",
+            "subTopics": [],
+            "page": {
+                "page_number": "125",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000228": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.1 Ancient Kingdom Of Egypt",
+            "subTopics": ["History of Ancient Egypt"],
+            "page": {
+                "page_number": "126",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000229": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.1 Ancient Kingdom Of Egypt",
+            "subTopics": ["Social Class in Ancient Egypt"],
+            "page": {
+                "page_number": "126",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000230": {
+    "source": "segment_3",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.1 Ancient Kingdom Of Egypt",
+            "subTopics": ["Social Class in Ancient Egypt", "Figure 5.1"],
+            "page": {
+                "page_number": "126",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000231": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.1 Ancient Kingdom Of Egypt",
+            "subTopics": ["Agriculture"],
+            "page": {
+                "page_number": "127",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000232": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.1 Ancient Kingdom Of Egypt",
+            "subTopics": [" Trade"],
+            "page": {
+                "page_number": "127",
+                "page_overlap": "128"
+            },
+            "others": ""
+        }
+},
+"batch_000233": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.1 Ancient Kingdom Of Egypt",
+            "subTopics": [" Government"],
+            "page": {
+                "page_number": "128",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000234": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.1 Ancient Kingdom Of Egypt",
+            "subTopics": [" The Pyramid"],
+            "page": {
+                "page_number": "128",
+                "page_overlap": "129"
+            },
+            "others": ""
+        }
+},
+"batch_000235": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.1 Ancient Kingdom Of Egypt",
+            "subTopics": ["Beliefs"],
+            "page": {
+                "page_number": "129",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000236": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.1 Ancient Kingdom Of Egypt",
+            "subTopics": [" Egyptian Writing"],
+            "page": {
+                "page_number": "129",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000237": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.1 Ancient Kingdom Of Egypt",
+            "subTopics": ["Contributions of Egyptians"],
+            "page": {
+                "page_number": "130",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000238": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.1 Ancient Kingdom Of Egypt",
+            "subTopics": ["Contributions of Egyptians", "Activity 5.1"],
+            "page": {
+                "page_number": "130",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000239": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.2 The Kingdom Of Nubia",
+            "subTopics": [" Geographical Location"],
+            "page": {
+                "page_number": "131",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000240": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.2 The Kingdom Of Nubia",
+            "subTopics": [" Geographical Location"],
+            "page": {
+                "page_number": "131",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000241": {
+    "source": "segment_3",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.2 The Kingdom Of Nubia",
+            "subTopics": ["Egyptian Conquest"],
+            "page": {
+                "page_number": "131",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000242": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.2 The Kingdom Of Nubia",
+            "subTopics": [" Trade"],
+            "page": {
+                "page_number": "132",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000243": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.2 The Kingdom Of Nubia",
+            "subTopics": [" Trade", "Activity 5.2"],
+            "page": {
+                "page_number": "132",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000244": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.3 The Kingdom Of Meroe",
+            "subTopics": [],
+            "page": {
+                "page_number": "133",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000245": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.3 The Kingdom Of Meroe",
+            "subTopics": [],
+            "page": {
+                "page_number": "133",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000246": {
+    "source": "segment_3",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.3 The Kingdom Of Meroe",
+            "subTopics": ["Trade"],
+            "page": {
+                "page_number": "133",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000247": {
+    "source": "segment_4",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.3 The Kingdom Of Meroe",
+            "subTopics": ["Achievements of Merotic civilization"],
+            "page": {
+                "page_number": "133",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000248": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.3 The Kingdom Of Meroe",
+            "subTopics": ["Decline of Meroe"],
+            "page": {
+                "page_number": "134",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000249": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.3 The Kingdom Of Meroe",
+            "subTopics": ["Comparison between pre-colonial Egypt, Nubia and Meroe"],
+            "page": {
+                "page_number": "134",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000250": {
+    "source": "segment_3",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.3 The Kingdom Of Meroe",
+            "subTopics": ["Comparison between pre-colonial Egypt, Nubia and Meroe"],
+            "page": {
+                "page_number": "134",
+                "page_overlap": "135"
+            },
+            "others": ""
+        }
+},
+"batch_000251": {
+    "source": "segment_1",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.3 The Kingdom Of Meroe",
+            "subTopics": ["Comparison between pre-colonial Egypt, Nubia and Meroe"],
+            "page": {
+                "page_number": "135",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+},
+"batch_000252": {
+    "source": "segment_2",
+    "content_type": "katex",
+        "tags": {
+            "unit": "UNIT 5 ANCIENT HISTORY OF AFRICA",
+            "topic": "5.3 The Kingdom Of Meroe",
+            "subTopics": ["Comparison between pre-colonial Egypt, Nubia and Meroe", "Activity 5.3"],
+            "page": {
+                "page_number": "135",
+                "page_overlap": ""
+            },
+            "others": ""
+        }
+}
+}
